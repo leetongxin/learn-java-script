@@ -1,3 +1,5 @@
-
-learn alerting and confirm
-learn basic math in js
+var a=prompt("masukkan angka anda :");
+if(a % 2 ==1){
+    alert("bilangan anda adalah ganjil")
+}
+else ("bilangan anda adalah genap");
